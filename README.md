@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seunghoon-Schini-Yang)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=silence1230)](https://solved.ac/silence1230/)
